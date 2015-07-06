@@ -1,15 +1,18 @@
 # mr-bump
 Bumps your apps manifest files version
 
-##Install
+![Mr Bump](http://i.imgur.com/E1vEV64.png)
+
+## Install
 ```
 npm install -g mr-bump
 ```
 
-##Usage
+## Usage
 ```
 mr-bump -h
 ```
 
+## Licence
 
-![Mr Bump](http://i.imgur.com/E1vEV64.png)
+MIT
