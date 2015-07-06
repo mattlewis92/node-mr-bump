@@ -2,7 +2,7 @@
   "name": "mr-bump",
   "version": "1.0.0",
   "description": "Bumps your apps manifest files version",
-  "main": "index.js",
+  "bin": "bin/mr-bump.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/mattlewis92/node-mr-bump/issues"
   },
-  "homepage": "https://github.com/mattlewis92/node-mr-bump#readme"
+  "homepage": "https://github.com/mattlewis92/node-mr-bump#readme",
+  "dependencies": {
+    "chalk": "~1.1.0",
+    "commander": "~2.8.1",
+    "jsonfile": "~2.2.1",
+    "semver": "~4.3.6"
+  }
 }

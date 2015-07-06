@@ -7,9 +7,9 @@ npm install -g mr-bump
 ```
 
 ##Usage
+```
+mr-bump -h
+```
 
 
-##Application
-
-
-![Mr Bump](http://i.imgur.com/CVGWowr.jpg)
+![Mr Bump](http://i.imgur.com/E1vEV64.png)
