@@ -1,0 +1,23 @@
+{
+  "name": "mrbump",
+  "version": "1.0.0",
+  "description": "Bumps your apps manifest files version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattlewis92/node-mrbump.git"
+  },
+  "keywords": [
+    "bump",
+    "manifest"
+  ],
+  "author": "Matt Lewis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattlewis92/node-mrbump/issues"
+  },
+  "homepage": "https://github.com/mattlewis92/node-mrbump#readme"
+}
