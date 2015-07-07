@@ -1,6 +1,6 @@
 {
   "name": "mr-bump",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bumps your apps manifest files version",
   "bin": "bin/mr-bump.js",
   "scripts": {
